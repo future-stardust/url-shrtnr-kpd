@@ -10,10 +10,5 @@ class HelloTest {
   void simpleAlwaysGreenTest() {
     assertThat(1).isEqualTo(1);
   }
-  
-  @Test 
-  void wrondTest(){
-    assertThat(4).isEqualTo(5);
-  }
-
+ 
 }
