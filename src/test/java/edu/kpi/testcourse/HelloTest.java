@@ -8,7 +8,12 @@ class HelloTest {
 
   @Test
   void simpleAlwaysGreenTest() {
-    assertThat(1).isEqualTo(1);
+    assertThat(4).isEqualTo(1);
+  }
+  
+  @Test 
+  void wrondTest(){
+    assertThat(4).isEqualTo(5);
   }
 
 }
