@@ -11,7 +11,7 @@ fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Design document
 
-The [design document]() that
+The [design document](https://docs.google.com/document/d/1LI5nTj62YYdrZC5BI8Hh1udQL9t_SMFt_q_7fhNJwr4/edit) that
 describes architecture and implementation details of this project.
 
 ### System structure
