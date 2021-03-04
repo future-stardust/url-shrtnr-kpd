@@ -1,13 +1,13 @@
-# {Team Name} - URL shortener {🧪}
+# {KPD} - URL shortener {🧪}
 
 This is a template project for "Software testing" course labs. Use it to create your own repo and 
 fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Students group
 
-- {Surname Name (in Ukrainian)} {email}
-- ...
-- {Surname Name (in Ukrainian)} {email}
+- Давиденко Ілля ilya.davydenkoo@gmail.com
+- Козирєв Олексій alexiskozyrev@gmail.com
+- Пінькавський Богдан lordeldrus@gmail.com
 
 ## Design document
 
