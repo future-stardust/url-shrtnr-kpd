@@ -1,7 +1,5 @@
-# {KPD} - URL shortener {🧪}
+# KPD - URL shortener :zap:
 
-This is a template project for "Software testing" course labs. Use it to create your own repo and 
-fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Students group
 
