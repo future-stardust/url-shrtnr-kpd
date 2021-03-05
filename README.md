@@ -5,7 +5,7 @@ fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Students group
 
-- Давиденко Ілля ilya.davydenkoo@gmail.com
+- Давиденко Ілля Миколайович ilya.davydenkoo@gmail.com
 - Козирєв Олексій alexiskozyrev@gmail.com
 - Пінькавський Богдан lordeldrus@gmail.com
 
