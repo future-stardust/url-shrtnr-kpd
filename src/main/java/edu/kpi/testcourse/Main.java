@@ -5,7 +5,7 @@ import io.micronaut.runtime.Micronaut;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/** 777
+/**
  * This is a main entry point to the URL shortener.
  *
  * <p>It creates, connects and starts all system parts.
